@@ -24,6 +24,8 @@ b8
 b9
 8998
 b9
-
 ear
 mouth
+eye
+hhh
+nose
